@@ -1,0 +1,37 @@
+# Ensure consistent line endings and proper binary handling
+
+# Normalize all text files to LF in the repository and on checkout
+* text=auto eol=lf
+
+# Treat these as text explicitly (use LF)
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.svg  text eol=lf
+
+# Binary assets (no EOL conversion)
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.pdf  binary
+*.zip  binary
+*.gz   binary
+*.7z   binary
+*.rar  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary
+*.otf  binary
+*.eot  binary
+*.mp4  binary
+*.mov  binary
+*.avi  binary
+*.mp3  binary
+*.wav  binary
