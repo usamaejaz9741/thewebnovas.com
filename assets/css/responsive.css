@@ -1,0 +1,863 @@
+@media only screen and (max-width:1920px) and (min-width:1700px) {
+    .container {
+        max-width: 1540px
+    }
+}
+
+@media only screen and (max-width:1700px) {
+    .packagesCard {
+        padding: 2rem
+    }
+
+    .packagesCard .themeBtn {
+        padding: .8em 2rem
+    }
+}
+
+@media only screen and (max-width:1600px) {
+    .navbar-brand img {
+        max-width: 11vw
+    }
+
+    .talkBtn {
+        width: 100px;
+        height: 100px;
+        font-size: 1.75rem;
+        margin-right: 5rem
+    }
+
+    .talkBtn span {
+        width: 60px
+    }
+
+    .menubtn {
+        right: 7%
+    }
+
+    .heroTxt h1 {
+        font-size: 3.25rem
+    }
+
+    .serviceWrapper {
+        width: 260%
+    }
+
+    .serviceTop .imgBox {
+        width: 24vw;
+        height: 24vw;
+        padding: 2rem
+    }
+
+    .serviceTxt {
+        padding: 3.5rem 0
+    }
+
+    .serviceTxt h2 {
+        font-size: 3rem
+    }
+
+    .serviceTxt .step {
+        font-size: 6rem
+    }
+
+    .heading {
+        font-size: 4rem
+    }
+
+    .brandWrpper figure img {
+        width: 90%
+    }
+
+    .packagesCard {
+        padding: 2rem
+    }
+
+    .contactSection {
+        padding: 6rem 0
+    }
+
+    .contactForm .form-control {
+        height: 3.75rem
+    }
+
+    .testimonialItem .userPic img {
+        width: 4.5rem;
+        height: 4.5rem
+    }
+
+    .swiper-button-prev {
+        left: 5rem
+    }
+
+    .swiper-button-next {
+        right: 5rem
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        width: 2.875rem;
+        height: 2.875rem
+    }
+
+    .serviceCard h3 {
+        font-size: 1.65rem;
+        margin-bottom: 3.75rem
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 6.25rem 0
+    }
+
+    .our-services {
+        padding: 8.5rem 0 7rem
+    }
+
+    .ctaSection {
+        padding: 4.5rem 0
+    }
+    .heroSection{
+        height: 850px;
+    }
+}
+
+@media only screen and (max-width:1445px) {
+    .heroTxt h1 {
+        font-size: 2.875rem
+    }
+
+    .talkBtn {
+        width: 80px;
+        height: 80px;
+        font-size: 1.5rem
+    }
+
+    .talkBtn span {
+        width: 50px;
+        font-size: 1rem
+    }
+
+    .serviceWrapper {
+        width: 270%
+    }
+
+    .serviceTxt {
+        padding: 3rem 0
+    }
+
+    .serviceTxt h2 {
+        font-size: 2.5rem
+    }
+
+    .serviceTxt .step {
+        font-size: 5rem
+    }
+
+    .heading {
+        font-size: 3.5rem
+    }
+
+    .processSection {
+        padding: 7rem 0
+    }
+
+    .portfoliowrapper {
+        width: 135%
+    }
+
+    .portfolioSection {
+        padding: 6.5rem 0
+    }
+
+    .brandingSection {
+        padding: 5.5rem 0 5rem
+    }
+
+    .packagesCard h5 {
+        font-size: 1.375rem
+    }
+
+    .contactSection {
+        padding: 5.5rem 0
+    }
+
+    .testimonialSection {
+        padding-top: 15rem
+    }
+
+    .swiper-button-prev {
+        left: 4rem
+    }
+
+    .swiper-button-next {
+        right: 4rem
+    }
+
+    .serviceCard h3 {
+        font-size: 1.5rem;
+        margin-bottom: 3.5rem
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 6rem 0
+    }
+
+    .our-services {
+        padding: 8rem 0 6.5rem
+    }
+
+    .ctaSection {
+        padding: 4rem 0
+    }
+}
+
+@media only screen and (max-width:1366px) {
+    html {
+        font-size: 15px
+    }
+
+    .heroSection {
+        min-height: 900px;
+    }
+
+    .heroTxt h1 {
+        font-size: 2.625rem
+    }
+
+    .talkBtn {
+        margin-right: 9rem
+    }
+
+    .themeBtn {
+        padding: .7em 2.75em
+    }
+
+    .serviceTxt {
+        padding: 3rem 0
+    }
+
+    .serviceTxt h2 {
+        font-size: 2.5rem
+    }
+
+    .serviceTxt .step {
+        font-size: 5rem
+    }
+
+    .serviceItem {
+        flex: auto;
+        max-width: 80%
+    }
+
+    .serviceTxt ul {
+        font-size: 1.05rem
+    }
+
+    .portfolioSection,
+    .processSection {
+        padding: 6rem 0
+    }
+
+    .graph {
+        margin: 5rem 3.5rem 0
+    }
+
+    .portfoliowrapper {
+        width: 150%;
+        gap: 2rem
+    }
+
+    .brandingSection {
+        padding: 5rem 0 4.5rem
+    }
+
+    .contactSection {
+        padding: 5rem 0
+    }
+
+    .testimonialSection {
+        padding-top: 14rem
+    }
+
+    .swiper-button-prev {
+        left: 3rem
+    }
+
+    .swiper-button-next {
+        right: 3rem
+    }
+
+    .swiper-button-next::after,
+    .swiper-button-prev::after {
+        font-size: 1.25rem
+    }
+
+    .footerLogo img {
+        margin-bottom: 1rem
+    }
+
+    .serviceCard h3 {
+        font-size: 1.35rem;
+        margin-bottom: 3.25rem
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 5.5rem 0
+    }
+
+    .our-services {
+        padding: 7.5rem 0 6.25rem
+    }
+
+    .ctaSection {
+        padding: 3.5rem 0
+    }
+    .heroSection{
+        min-height: 650px !important;
+    }
+}
+
+@media (max-width:1199.98px) {
+    html {
+        font-size: 14px
+    }
+
+    .heroTxt h1 {
+        font-size: 2.25rem;
+        line-height: 1.5
+    }
+
+    .heroSection .text {
+        top: 0
+    }
+
+    .serviceTxt {
+        padding: 2.5rem 0
+    }
+
+    .processSection {
+        padding: 5rem 0
+    }
+
+    .portfoliowrapper {
+        width: 180%;
+        gap: 1.5rem
+    }
+
+    .portfolioSection {
+        padding: 5.5rem 0
+    }
+
+    .brandingSection {
+        padding: 4.5rem 0 4rem
+    }
+
+    .heading {
+        font-size: 3rem
+    }
+
+    .packagesSection .heading img {
+        height: 3rem
+    }
+
+    .contactSection {
+        padding: 4.5rem 0
+    }
+
+    .testimonialSection {
+        padding-top: 12rem
+    }
+
+    .swiper-button-prev {
+        left: 2.5rem
+    }
+
+    .swiper-button-next {
+        right: 2.5rem
+    }
+
+    .social {
+        gap: 1.5rem
+    }
+
+    .serviceCard h3 {
+        margin-bottom: 3rem
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 5.25rem 0
+    }
+
+    .our-services {
+        padding: 7rem 0 6rem
+    }
+
+    .ctaSection {
+        padding: 3rem 0
+    }
+
+    .difference .cardheader {
+        padding: 1.75rem 2.25rem
+    }
+
+    .difference li {
+        padding: 1.5rem 2.25rem
+    }
+}
+
+@media (max-width:991.98px) {
+    html {
+        font-size: 13px
+    }
+
+    .g-heading {
+        font-size: .7rem
+    }
+
+    .navbar-brand img {
+        max-width: 150px;
+        height: 70px;
+        object-fit: contain;
+    }
+
+    .themeBtn {
+        padding: .6em 2em
+    }
+
+    .serviceWrapper {
+        width: 100%;
+        flex-direction: column
+    }
+
+    .serviceItem {
+        max-width: 100%
+    }
+
+    .serviceTop .imgBox {
+        width: 24rem;
+        height: 24rem;
+        padding: 2rem
+    }
+
+    .serviceTxt {
+        width: 92%;
+        padding: 2rem 0
+    }
+
+    .serviceTxt .step {
+        font-size: 4rem
+    }
+
+    .serviceTxt ul {
+        margin-top: 1rem
+    }
+
+    .blurTop,
+    .testimonailWrapper,
+    .text {
+        display: none
+    }
+
+    .contactSection,
+    .processSection {
+        padding: 4rem 0
+    }
+
+    .graph {
+        margin: 3rem 1rem 0
+    }
+
+    .portfoliowrapper {
+        width: 220%;
+        gap: 1.25rem
+    }
+
+    .aboutSection,
+    .industrySection,
+    .portfolioSection {
+        padding: 5rem 0
+    }
+
+    .brandingSection {
+        padding: 4rem 0 3.5rem
+    }
+
+    .brandWrpper {
+        grid-template-columns: repeat(4, 1fr)
+    }
+
+    .brandWrpper figure {
+        border: 0;
+        padding: 1rem
+    }
+
+    .heading {
+        font-size: 2.75rem
+    }
+
+    .packagesSection .heading img {
+        height: 2.75rem
+    }
+
+    .testimonialSection {
+        padding-top: 9rem;
+        max-height: fit-content
+    }
+
+    .testimonialSection .row {
+        gap: 3rem
+    }
+
+    .testimonailSlider {
+        display: block
+    }
+
+    .packagesCard {
+        max-width: 320px;
+        margin: auto
+    }
+
+    footer h4 {
+        margin: 1rem 0
+    }
+
+    .serviceCard h3 {
+        margin-bottom: 2.75rem
+    }
+
+    .our-services {
+        padding: 6rem 0 5rem
+    }
+
+    .ctaSection {
+        padding: 2.5rem 0
+    }
+
+    .footerLogo img {
+        max-width: 140px
+    }
+
+    .difference .row {
+        gap: 1rem
+    }
+
+    .difference .cardheader,
+    .difference li {
+        padding: 1.5rem 2rem
+    }
+}
+
+@media (max-width:767.98px) {
+    html {
+        font-size: 12px
+    }
+
+    .innernew {
+        min-height: 350px;
+    }
+
+    .heroInner.innernew .heroTxt h1 {
+        padding-top: 2rem;
+    }
+
+    .footer-form {
+        margin-top: 150px;
+    }
+
+    .talkBtn {
+        display: none
+    }
+
+    .serviceTop .imgBox {
+        width: 20rem;
+        height: 20rem;
+        padding: 2rem
+    }
+
+    .serviceTxt {
+        padding: 1.5rem 0
+    }
+
+    .serviceTxt ul li+li {
+        margin-top: 4px
+    }
+
+    .graph {
+        margin: 2rem 0 0
+    }
+
+    .portfoliowrapper {
+        width: 250%;
+        gap: 1rem
+    }
+
+    .portfolioSection {
+        padding: 4rem 0
+    }
+
+    .brandingSection {
+        padding: 3.5rem 0 3rem
+    }
+
+    .brandWrpper {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+        width: 80%;
+        margin: auto
+    }
+
+    .brandWrpper figure {
+        border: 0;
+        padding: 1rem
+    }
+
+    .heading {
+        font-size: 2.5rem
+    }
+
+    .packagesSection .heading img {
+        height: 2.5rem
+    }
+
+    .contactSection {
+        padding: 3.5rem 0
+    }
+
+    .testimonialSection {
+        padding-top: 5rem
+    }
+
+    .testimonialSection .row {
+        gap: 2.5rem
+    }
+
+    .accordion .btn {
+        padding-right: 3rem
+    }
+
+    .serviceCard h3 {
+        margin-bottom: 2.5rem
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 4.5rem 0
+    }
+
+    .our-services {
+        padding: 5rem 0 4rem
+    }
+
+    .ctaSection {
+        padding: 2rem 0
+    }
+
+    .privacy {
+        justify-content: flex-start;
+        margin-top: 10px
+    }
+
+    .heroInner p {
+        font-size: 1.125rem
+    }
+
+    footer h4 {
+        font-size: 1.25rem
+    }
+
+    footer ul li+li {
+        margin: 8px 0 0
+    }
+
+    .ctaform .form-group {
+        width: 100%;
+        margin-top: 1rem;
+        padding: 5px
+    }
+
+    .difference .cardheader,
+    .difference li {
+        padding: 1.25rem 1.75rem
+    }
+}
+
+@media (max-width:575.98px) {
+    .g-heading {
+        font-size: .5rem
+    }
+
+    .heading,
+    .serviceTxt h2 {
+        font-size: 2rem
+    }
+
+    .packagesSection .heading img {
+        height: 2.25rem
+    }
+
+    .serviceTop .imgBox {
+        width: 85%;
+        margin: 0 auto
+    }
+
+    .serviceTop .imgBox img {
+        max-height: 100%
+    }
+
+    .serviceTxt {
+        padding: 1rem 0 3rem
+    }
+
+    .heading {
+        max-width: 320px;
+        margin: auto
+    }
+
+    .portfoliowrapper {
+        width: 280%
+    }
+
+    .contactSection,
+    .portfolioSection {
+        padding: 3rem 0
+    }
+
+    .brandingSection {
+        padding: 3rem 0 2.5rem
+    }
+
+    .brandWrpper {
+        width: 90%;
+        grid-template-columns: repeat(2, 1fr)
+    }
+
+    .aboutSection .heading,
+    .contactSection .heading,
+    .testimonialSection .heading {
+        margin: 0;
+        max-width: 100%
+    }
+
+    .testimonialSection {
+        padding-top: 3rem
+    }
+
+    .heroInner .row,
+    .testimonialSection .row {
+        gap: 2rem
+    }
+
+    .footerLogo img {
+        width: 120px
+    }
+
+    .accordion .btn {
+        font-size: 14px
+    }
+
+    .servicesSlider {
+        margin: 0;
+        padding: 1rem .3rem
+    }
+
+    .serviceCard {
+        min-height: fit-content;
+        padding: 1.5rem
+    }
+
+    .servicesSlider .swiper-slide-active .serviceCard::before {
+        background: linear-gradient(0deg, #4fbe83 0, #0b3f63 100%)
+    }
+
+    .servicesSlider .swiper-slide-active .serviceCard {
+        background: url('../images/blurhover.html') center center/cover
+    }
+
+    .aboutSection,
+    .industrySection {
+        padding: 4rem 0
+    }
+
+    .clientLogoSlider::after,
+    .clientLogoSlider::before {
+        width: 50px
+    }
+
+    .our-services {
+        padding: 4rem 0 3rem
+    }
+
+    .heroInner {
+        padding: 8rem 0 3rem;
+        background-position-x: center
+    }
+
+    .themeBtn {
+        font-size: 1.25rem
+    }
+
+    footer ul li+li {
+        margin: 5px 0 0
+    }
+
+    .industryCard {
+        padding: 2.5rem 1.5rem
+    }
+
+    .difference .cardheader,
+    .difference li {
+        padding: 1rem 1.5rem
+    }
+
+    .menubtn {
+        padding: 10px;
+        right: 5%;
+        top: 10%;
+    }
+
+    .menubtn>span {
+        display: none
+    }
+
+    .menubtn .icon {
+        width: auto;
+        height: auto
+    }
+
+    #hero-animation {
+        background-position: center top -6rem
+    }
+    .bsIfDP {
+    height: 50% !important;
+    padding: 0px!important;
+    position: absolute!important;
+    bottom: 0!important;
+    left: 0!important;
+    right: 0!important;
+}
+}
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .platform_1 img {
+        width: 165px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .platform_1 img {
+        width: 125px;
+    }
+}
+
+@media (min-width: 20px) and (max-width: 767px) {
+    .forMobilelogo {
+        display: block;
+    }
+
+    .platform_1 {
+        display: none;
+    }
+}
